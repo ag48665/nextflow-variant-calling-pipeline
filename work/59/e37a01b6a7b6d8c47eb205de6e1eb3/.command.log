@@ -1,0 +1,8 @@
+Unable to find image 'biocontainers/bwa:v0.7.17_cv1' locally
+v0.7.17_cv1: Pulling from biocontainers/bwa
+c8e106a5860b: Pulling fs layer
+c8e106a5860b: Download complete
+c8e106a5860b: Pull complete
+Digest: sha256:9479b73e108ded3c12cb88bb4e918a5bf720d7861d6d8cdbb46d78a972b6ff1b
+Status: Downloaded newer image for biocontainers/bwa:v0.7.17_cv1
+[bwa_idx_build] fail to open file 'ref_genome.fa' : No such file or directory

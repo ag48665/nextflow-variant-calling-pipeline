@@ -1,0 +1,13 @@
+Unable to find image 'quay.io/biocontainers/samtools:1.20--h50ea8bc_1' locally
+1.20--h50ea8bc_1: Pulling from biocontainers/samtools
+a75bf59ab3f4: Pulling fs layer
+0cacab098358: Pulling fs layer
+bd9ddc54bea9: Pulling fs layer
+bd9ddc54bea9: Download complete
+0cacab098358: Download complete
+0cacab098358: Pull complete
+bd9ddc54bea9: Pull complete
+a75bf59ab3f4: Download complete
+a75bf59ab3f4: Pull complete
+Digest: sha256:bf80e07e650becfd084db1abde0fe932b50f990a07fa56421ea647b552b5a406
+Status: Downloaded newer image for quay.io/biocontainers/samtools:1.20--h50ea8bc_1

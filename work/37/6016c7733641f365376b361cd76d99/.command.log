@@ -1,0 +1,15 @@
+[bwa_index] Pack FASTA... 0.00 sec
+[bwa_index] Construct BWT for the packed sequence...
+[bwa_index] 0.00 seconds elapse.
+[bwa_index] Update BWT... 0.00 sec
+[bwa_index] Pack forward-only FASTA... 0.00 sec
+[bwa_index] Construct SA from BWT and Occ... 0.00 sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa index ref_genome.fa
+[main] Real time: 0.052 sec; CPU: 0.008 sec
+[M::bwa_idx_load_from_disk] read 0 ALT contigs
+[M::process] read 3 sequences (60 bp)...
+[M::mem_process_seqs] Processed 3 reads in 0.001 CPU sec, 0.001 real sec
+[main] Version: 0.7.17-r1188
+[main] CMD: bwa mem ref_genome.fa sample.fastq.gz
+[main] Real time: 0.008 sec; CPU: 0.007 sec

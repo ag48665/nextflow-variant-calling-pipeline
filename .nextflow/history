@@ -1,0 +1,10 @@
+2026-05-11 13:12:29	-	kickass_salas	-	418cd002567e85977dac590f61198099	e396780a-cdde-4424-bd42-d845f02daf3f	nextflow run main.nf -with-docker
+2026-05-11 13:14:16	2.1s	festering_panini	OK	410073726ea61422c0a7c2575997888d	a1996a0f-6e86-4ce9-873d-658519e45c09	nextflow run main.nf -with-docker
+2026-05-11 13:18:14	2.2s	big_rubens	ERR	410073726ea61422c0a7c2575997888d	5a8f584c-eb43-4641-b053-a40f7cfb6232	nextflow run main.nf -with-docker
+2026-05-11 13:21:35	1.8s	naughty_saha	ERR	410073726ea61422c0a7c2575997888d	0ee87737-caae-4ff9-ad89-1238c12f6665	nextflow run main.nf -with-docker
+2026-05-11 13:23:38	47.6s	special_ramanujan	OK	410073726ea61422c0a7c2575997888d	9b1a235d-e4d4-4dd5-9077-85cbacd9a1c4	nextflow run main.nf -with-docker
+2026-05-11 13:42:55	5.9s	ridiculous_tesla	OK	f916db14fce937e99f177c9574b2821a	3d1eaaef-7eff-4504-beb5-5e7a128a56a7	nextflow run main.nf --with-docker
+2026-05-11 14:06:14	17.9s	small_bassi	ERR	f052300e5d8930a456aefb7fd83b9f0c	0dfd9552-1b9b-4a37-8014-1274bfbc91d7	nextflow run main.nf --with-docker
+2026-05-11 14:09:12	5.5s	infallible_knuth	OK	f052300e5d8930a456aefb7fd83b9f0c	be4a87a3-7bc7-4b65-9e8b-d60a23d72b46	nextflow run main.nf --with-docker
+2026-05-11 14:15:12	8.5s	mad_venter	OK	140b60f7bd9a12957849d271626ec157	fbb0a290-f2d1-4efa-88d5-1d7c6c831e10	nextflow run main.nf --with-docker
+2026-05-11 14:20:36	14.2s	extravagant_edison	OK	5adee59a2d1f7db573349c8a3e440cb8	b577bfa0-bcc4-4389-9925-03dfe0a1c3a7	nextflow run main.nf --with-docker
