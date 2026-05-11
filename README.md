@@ -39,7 +39,6 @@ nextflow run main.nf --with-docker
 - automated reports
 
 ```
-```
 
 ## Author
 
