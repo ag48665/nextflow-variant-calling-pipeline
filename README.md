@@ -49,6 +49,18 @@ Pipeline successfully generates:
 
 ![Pipeline Screenshot](figures/Screenshot_1.png)
 ---
+## Medical relevance
+
+This workflow demonstrates core bioinformatics steps used in genomic medicine and next-generation sequencing (NGS) analysis pipelines.
+
+Potential applications include:
+- detection of disease-associated genetic variants
+- cancer genomics
+- precision medicine
+- clinical genomics research
+- reproducible NGS data processing
+- 
+---
 
 
 ## Current workflow
