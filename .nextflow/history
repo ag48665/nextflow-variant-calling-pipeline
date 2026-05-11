@@ -8,3 +8,6 @@
 2026-05-11 14:09:12	5.5s	infallible_knuth	OK	f052300e5d8930a456aefb7fd83b9f0c	be4a87a3-7bc7-4b65-9e8b-d60a23d72b46	nextflow run main.nf --with-docker
 2026-05-11 14:15:12	8.5s	mad_venter	OK	140b60f7bd9a12957849d271626ec157	fbb0a290-f2d1-4efa-88d5-1d7c6c831e10	nextflow run main.nf --with-docker
 2026-05-11 14:20:36	14.2s	extravagant_edison	OK	5adee59a2d1f7db573349c8a3e440cb8	b577bfa0-bcc4-4389-9925-03dfe0a1c3a7	nextflow run main.nf --with-docker
+2026-05-11 15:53:12	6.7s	cranky_planck	OK	5adee59a2d1f7db573349c8a3e440cb8	0a1eed1f-5cff-45d7-9e4b-548cf712a34c	nextflow run main.nf --with-docker
+2026-05-11 16:05:07	17s	nice_kowalevski	OK	710d045be467de0ce6444f38bc73c317	29eb042e-d24d-4b78-92c6-972efa9bb6eb	nextflow run main.nf --with-docker
+2026-05-11 16:07:24	5.7s	chaotic_wright	OK	710d045be467de0ce6444f38bc73c317	88ead5e8-89f2-4fa2-973f-d8ede449d9ee	nextflow run main.nf --with-docker

@@ -2,3 +2,10 @@ work/
 .nextflow/
 .nextflow.log*
 *.log
+work/
+.nextflow*
+*.html
+*.zip
+*.sam
+*.bam
+*.vcf
