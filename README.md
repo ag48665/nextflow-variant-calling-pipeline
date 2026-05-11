@@ -31,14 +31,12 @@ nextflow run main.nf --with-docker
 ```
 ## Results
 
-Pipeline successfully executed with:
+Pipeline successfully generates:
 
-- FASTQ quality control
-- FastQC analysis
-- BWA genome alignment
-- SAMtools BAM sorting
-- Docker containerized workflow
-- Nextflow reproducible pipeline
+- FastQC reports
+- aligned.sam
+- sorted.bam
+- variants.vcf
 
 ## Current workflow
 
