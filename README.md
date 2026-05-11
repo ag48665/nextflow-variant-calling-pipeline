@@ -6,6 +6,9 @@ Bioinformatics variant calling workflow built with Nextflow and Docker.
 
 - FASTQ quality control
 - FastQC analysis
+- BWA sequence alignment
+- SAMtools BAM sorting
+- BCFtools variant calling
 - Dockerized execution
 - Reproducible bioinformatics workflow
 - Linux/WSL2 integration
@@ -15,20 +18,23 @@ Bioinformatics variant calling workflow built with Nextflow and Docker.
 - Nextflow
 - Docker
 - FastQC
+- BWA
+- SAMtools
+- BCFtools
 - Linux
 - WSL2
 - Bioinformatics
 
 ## Pipeline
 
-FASTQ → FastQC → Alignment → Variant Calling → VCF
+FASTQ → FastQC → BWA → SAMtools → BCFtools → VCF
 
 ## Run pipeline
 
 ```bash
 nextflow run main.nf --with-docker
-
 ```
+
 ## Results
 
 Pipeline successfully generates:
@@ -40,18 +46,16 @@ Pipeline successfully generates:
 
 ## Current workflow
 
-FASTQ → FastQC → BWA → SAMtools → sorted BAM
+FASTQ → FastQC → BWA → SAMtools → sorted BAM → VCF
 
 ---
 
-
 ## Future improvements
 
-- BWA alignment
-- samtools processing
-- bcftools variant calling
-- automated reports
-
+- Automated HTML reports
+- Multi-sample processing
+- Genome indexing optimization
+- Cloud execution support
 
 ## Author
 
