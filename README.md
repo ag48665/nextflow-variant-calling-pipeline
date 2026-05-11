@@ -29,6 +29,22 @@ FASTQ → FastQC → Alignment → Variant Calling → VCF
 nextflow run main.nf --with-docker
 
 ```
+## Results
+
+Pipeline successfully executed with:
+
+- FASTQ quality control
+- FastQC analysis
+- BWA genome alignment
+- SAMtools BAM sorting
+- Docker containerized workflow
+- Nextflow reproducible pipeline
+
+## Current workflow
+
+FASTQ → FastQC → BWA → SAMtools → sorted BAM
+
+---
 
 
 ## Future improvements
