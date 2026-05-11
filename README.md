@@ -59,7 +59,7 @@ Potential applications include:
 - precision medicine
 - clinical genomics research
 - reproducible NGS data processing
-- 
+
 ---
 
 
