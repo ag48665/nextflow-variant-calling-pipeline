@@ -38,7 +38,6 @@ nextflow run main.nf --with-docker
 - bcftools variant calling
 - automated reports
 
-```
 
 ## Author
 
