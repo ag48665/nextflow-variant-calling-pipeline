@@ -27,3 +27,15 @@ FASTQ → FastQC → Alignment → Variant Calling → VCF
 
 ```bash
 nextflow run main.nf --with-docker
+
+
+## Future improvements
+
+- BWA alignment
+- samtools processing
+- bcftools variant calling
+- automated reports
+
+## Author
+
+Agata Gabara
