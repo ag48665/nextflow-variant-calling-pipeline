@@ -44,6 +44,13 @@ Pipeline successfully generates:
 - sorted.bam
 - variants.vcf
 
+---
+## Workflow execution
+
+![Pipeline Screenshot](figures/Screenshot_1.png)
+---
+
+
 ## Current workflow
 
 FASTQ → FastQC → BWA → SAMtools → sorted BAM → VCF
